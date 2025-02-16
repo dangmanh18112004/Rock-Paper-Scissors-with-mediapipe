@@ -17,3 +17,7 @@ To use the project, follow these steps:
     ```bash
     python main.py
     ```
+
+## How to play
+1. Press 's' for starting game
+2. Press 'q' for quit game
