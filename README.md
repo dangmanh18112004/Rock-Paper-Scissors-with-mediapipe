@@ -5,7 +5,7 @@ To use the project, follow these steps:
 
 1. Clone repo:
     ```bash
-    git clone 
+    git clone https://github.com/dangmanh18112004/Rock-Paper-Scissors-with-mediapipe.git
     ```
 
 2. Install dependencies:
